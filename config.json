@@ -1,16 +1,16 @@
 {
     "reserve": [
-        {"username": "XXXXXXXX", //https://passport2.chaoxing.com/mlogin?loginType=1&newversion=true&fid=&  在这个网站查看是否可以顺利登陆 
-        "password": "XXXXXXXX",
-        "time": ["08:00","22:00"], // 预约的起始时间
-        "roomid":"2609", //2609:四楼外圈,5483:四楼内圈,2610:五楼外圈,5484:五楼内圈
-        "seatid":"002", // 注意要用0补全至3位数，例如6号座位应该填006
-        "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday"]
-        },
-        {"username": "xxxxxxxxxx",
-        "password": "xxxxxxxxx",
-        "time": ["20:00","21:00"],
+        {"username": "19810967860", 
+        "password": "zyj04022003",
+        "time": ["21:30","22:30"],
         "roomid":"3788",
+        "seatid":["038"],
+        "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday"]
+    },
+    {"username": "19810967860", 
+        "password": "zyj04022003",
+        "time": ["19:00","22:00"],
+        "roomid":"2133",
         "seatid":["134"],
         "daysofweek": ["Saturday" , "Sunday"]
     }
