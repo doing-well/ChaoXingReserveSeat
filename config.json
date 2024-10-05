@@ -10,8 +10,8 @@
         {"username": "xxxxxxxxxx",
         "password": "xxxxxxxxx",
         "time": ["20:00","21:00"],
-        "roomid":"5483",
-        "seatid":["056"],
+        "roomid":"3788",
+        "seatid":["134"],
         "daysofweek": ["Saturday" , "Sunday"]
     }
     ]
