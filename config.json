@@ -4,14 +4,14 @@
         "password": "zyj04022003",
         "time": ["21:30","22:30"],
         "roomid":"3788",
-        "seatid":["038"],
+        "seatid":["142"],
         "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday"]
     },
     {"username": "19810967860", 
         "password": "zyj04022003",
-        "time": ["19:00","22:00"],
+        "time": ["21:00","22:00"],
         "roomid":"2133",
-        "seatid":["134"],
+        "seatid":["142"],
         "daysofweek": ["Saturday" , "Sunday"]
     }
     ]
